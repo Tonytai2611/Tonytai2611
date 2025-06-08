@@ -15,7 +15,8 @@
 
 ## 📊 My GitHub Stats
 
-![Tonytai2611's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonytai2611&show_icons=true&theme=radical)
+![Tonytai2611's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonytai2611&show_icons=true&theme=radical&count_private=true&cache_seconds=60)
+
 
 ---
 
