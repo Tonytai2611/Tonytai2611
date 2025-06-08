@@ -6,6 +6,7 @@
 - 💻 My main programming languages: **C, C++, Java, JavaScript, Node.js**
 - 🌐 Web Development: **HTML, CSS**, building scalable web backends
 - ☁️ Cloud tools: **AWS, Supabase, MongoDB**, and API testing with **Postman**
+- 🧪 Testing tools: **Katalon Studio**
 - 🎯 Currently improving my full-stack skills and working towards becoming a DevOps Engineer
 - 📫 Reach me at: [tantaitruong26111@gmail.com](mailto:tantaitruong2611@gmail.com)
 - 💼 Pronouns: He/Him
