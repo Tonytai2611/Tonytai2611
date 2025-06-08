@@ -7,7 +7,7 @@
 - 🌐 Web Development: **HTML, CSS**, building scalable web backends
 - ☁️ Cloud tools: **AWS, Supabase, MongoDB**, and API testing with **Postman**
 - 🎯 Currently improving my full-stack skills and working towards becoming a DevOps Engineer
-- 📫 Reach me at: [tonytai2611@gmail.com](mailto:tonytai2611@gmail.com)
+- 📫 Reach me at: [tantaitruong26111@gmail.com](mailto:tantaitruong2611@gmail.com)
 - 💼 Pronouns: He/Him
 
 ---
