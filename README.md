@@ -15,7 +15,8 @@
 
 ## 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonytai2611&layout=compact&theme=radical)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Tonytai2611&layout=compact&theme=radical](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Tonytai2611&layout=compact&theme=radical
+))
 
 ---
 
