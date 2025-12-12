@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tony Tai  
-### Backend Developer | DevOps Learner | Cloud Enthusiast
+### DevOps Learner | Cloud Enthusiast
 
 I learn fast, ship iteratively, and keep things clean & readable.  
 Focused on **• Cloud • CI/CD • DevOps fundamentals**.
@@ -19,50 +19,45 @@ Focused on **• Cloud • CI/CD • DevOps fundamentals**.
 
 ---
 
-## 🧠 Tech Focus
+## 🛠 Tools & Technologies
 
 ### Languages
-- Java  
-- JavaScript 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-### Backend & APIs
-- Node.js / Express
-- Spring Boot
-- RESTful APIs
-- JWT Authentication
-- Validation, pagination, role-based access control
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 
 ### Frontend
-- React + Vite
-- Basic component patterns
-- Routing & clean UI structure
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 ### Databases
-- PostgreSQL / MySQL
-- MongoDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### ☁️ Cloud & AWS (Hands-on)
-- **EC2** – deploy backend services
-- **Elastic Beanstalk** – managed application deployment
-- **VPC** – networking fundamentals (subnets, security groups)
-- **S3** – static assets & storage
-- **CloudFront** – CDN for frontend delivery
-- **API Gateway** – expose REST APIs
-- **ECR** – container image registry
-- **Amplify** – frontend hosting
-- **Route 53** – domain & DNS management
+### Cloud & AWS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws)
+![Route53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonaws)
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify)
 
-### DevOps
-- Docker (basics)
-- GitHub Actions (CI/CD pipelines)
-- Build, test, and deploy automation
-- Kubernetes fundamentals *(currently learning)*
+### DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
-### Testing & Practices
-- JUnit
-- Test case management
-- Clean code & readable structure
-- Git & GitHub workflow
+### Testing & Tools
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
